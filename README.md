@@ -61,35 +61,35 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-###data.head():
+### data.head():
 
 ![OP1](/OP1.png)
 
-###data.info():
+### data.info():
 
 ![OP2](/OP2.png)
 
-###data.isnull().sum():
+### data.isnull().sum():
 
 ![OP3](/OP3.png)
 
-###data["left"].value_counts():
+### data["left"].value_counts():
 
 ![OP4](/OP4.png)
 
-###Label Encoded Salary:
+### Label Encoded Salary:
 
 ![OP5](/OP5.png)
 
-###x.head():
+### x.head():
 
 ![OP6](/OP6.png)
 
-###Accuracy:
+### Accuracy:
 
 ![OP7](/OP7.png)
 
-###dt.predict():
+### dt.predict():
 
 ![OP8](/OP8.png)
 
